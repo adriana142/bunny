@@ -46,3 +46,60 @@
 </center>
 
 <html/>
+<HTML>
+<HEAD>
+<TITLE>badbunny</TITLE>
+</HEAD>
+<BODY>
+<p><center><h1><b>INDICE</b></h1></center></p> 
+<hr>
+<BODY>
+<p><A HREF="colaboraciones.html"TARGET="Principal">colaboraciones</p>
+<p><A HREF="discografia.html"TARGET="Principal"<discografia</p>
+<p><A HREF="canciones favoritas.html"TARGET="Principal">canciones favoritas</p>
+
+
+<body bgcolor="#83DEA2">
+</BODY>
+</HTML>
+<HTML>
+<HEAD>
+<TITLE>Colaboraciones</TITLE>
+</HEAD>
+
+<body>
+<p>bad bunny ha colaborado con bastantes artistas 
+<p>como Dua Lipa, J Balvin, Jhay Cortez, Arcangel, Nicky Jam, Daddy Yankee
+<p>enttre otros logrando gran reconocimiento a nivel mundial
+</pZ>
+
+</body>
+<HTML>
+<HEAD>
+<TITLE>discografia</TITLE>
+</HEAD>
+
+<p>X100PRE en el año 2018
+<p>YHLQMDLG en el año 2020
+<p>OASIS en el año 2019
+<p>LAS QUE NO IBAN A SALIR en el año 2020
+<p>EL ULTIMO TOUR DEL MUNDO
+</p>
+<html>
+<head>
+<title>canciones favoritas</title>
+</head>
+
+<body>
+<p>maldita pobreza
+<p>dakiti
+<p>120
+<p>100 millones
+<p>yonaguni
+<p>sorry papi
+<p>cancion con yandel
+</p>
+
+<iframe width=
+src="https://youtu.be/doLMt10ytHY"
+</iframe>
